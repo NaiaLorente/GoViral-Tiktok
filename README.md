@@ -39,6 +39,20 @@ video data a chat window can't reach on its own; the ideation mode grounds
 its suggestions in that same real, fetched data plus this project's curated
 hook/hashtag library, instead of generic model knowledge.
 
+## Screenshots
+
+### Analyze a video
+
+![Analyze page](images/1.png)
+
+### AI Ideation
+
+![AI Ideation](images/2.png)
+
+### Creator Wrapped
+
+![Creator Wrapped](images/3.png)
+
 ## How it works
 
 1. You paste a `tiktok.com` video link.
