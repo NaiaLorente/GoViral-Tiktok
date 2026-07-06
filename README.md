@@ -39,6 +39,10 @@ video data a chat window can't reach on its own; the ideation mode grounds
 its suggestions in that same real, fetched data plus this project's curated
 hook/hashtag library, instead of generic model knowledge.
 
+## 🚀 Live Demo
+
+**Try it here:** https://go-viral-tiktok.vercel.app/
+
 ## Screenshots
 
 ### Analyze a video
