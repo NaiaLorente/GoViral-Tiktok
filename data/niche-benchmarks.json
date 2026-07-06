@@ -1,0 +1,23 @@
+{
+  "engagementRate": {
+    "low": 0.03,
+    "average": 0.06,
+    "good": 0.10,
+    "excellent": 0.15
+  },
+  "commentToLikeRatio": {
+    "healthy": 0.02
+  },
+  "captionLength": {
+    "minGood": 40,
+    "maxGood": 150
+  },
+  "bestPostingHoursUtc": [11, 12, 13, 17, 18, 19, 20, 21],
+  "reachTiers": [
+    { "id": "nano", "label": "Nano", "emoji": "🌱", "minLikes": 0, "minPlays": 0, "points": 3, "floorFactor": 0 },
+    { "id": "micro", "label": "Micro", "emoji": "🔹", "minLikes": 1000, "minPlays": 15000, "points": 6, "floorFactor": 0.15 },
+    { "id": "rising", "label": "Rising", "emoji": "📈", "minLikes": 10000, "minPlays": 150000, "points": 9, "floorFactor": 0.3 },
+    { "id": "viral", "label": "Viral", "emoji": "🔥", "minLikes": 100000, "minPlays": 1500000, "points": 12, "floorFactor": 0.55 },
+    { "id": "mega", "label": "Mega-Viral", "emoji": "🚀", "minLikes": 1000000, "minPlays": 15000000, "points": 15, "floorFactor": 0.75 }
+  ]
+}

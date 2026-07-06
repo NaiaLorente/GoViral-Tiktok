@@ -1,0 +1,41 @@
+{
+  "curiosityPhrases": [
+    "nobody tells you", "no one talks about", "the truth about", "what they don't want you to know",
+    "here's why", "here's what happened", "wish i knew", "i didn't know", "turns out",
+    "secret", "hack", "trick", "the real reason", "before you", "stop doing this",
+    "this changed everything", "i tried", "what happens when"
+  ],
+  "urgencyPhrases": [
+    "before it's too late", "don't wait", "last chance", "right now", "today only",
+    "hurry", "limited time", "while you still can", "act fast", "this week only"
+  ],
+  "contrarianPhrases": [
+    "unpopular opinion", "actually", "nobody talks about", "the wrong way", "stop believing",
+    "everyone is wrong about", "here's the problem with", "this is a lie", "myth"
+  ],
+  "calloutPhrases": [
+    "if you", "are you", "anyone else", "attention", "listen up", "raise your hand",
+    "this is for you", "you need to see this", "read this if"
+  ],
+  "fillerOpeners": [
+    "hey guys", "hi everyone", "hey everyone", "so today", "in this video", "welcome back",
+    "what's up guys", "hey there", "okay so", "so basically", "um so", "hi guys"
+  ],
+  "ctaPhrases": [
+    "link in bio", "comment below", "follow for more", "save this", "share this",
+    "dm me", "click the link", "check the link", "swipe up", "follow to learn",
+    "comment ", "tap the link"
+  ],
+  "weights": {
+    "curiosity": 12,
+    "urgency": 6,
+    "contrarian": 8,
+    "callout": 6,
+    "questionMark": 6,
+    "hasNumber": 6,
+    "fillerOpenerPenalty": -14,
+    "firstLineTooLongPenalty": -6,
+    "ctaBonus": 6
+  },
+  "idealFirstLineWordRange": [4, 12]
+}

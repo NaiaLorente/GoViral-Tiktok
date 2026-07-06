@@ -1,0 +1,12 @@
+{
+  "idealCountRange": [3, 6],
+  "maxCountBeforePenalty": 10,
+  "megaTags": ["fyp", "foryou", "foryoupage", "viral", "tiktok", "xyzbca", "trending"],
+  "megaTagSoftLimit": 2,
+  "sideHustleNicheTags": [
+    "sidehustle", "makemoneyonline", "passiveincome", "tiktokshop", "tiktokshopfinds",
+    "affiliatemarketing", "dropshipping", "faceless", "facelessvideo", "onlinebusiness",
+    "workfromhome", "ecomtok", "smallbusiness", "digitalmarketing", "entrepreneur",
+    "moneytips", "financetok", "sidehustleideas", "makemoneyfromhome", "creatoreconomy"
+  ]
+}
